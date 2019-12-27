@@ -5,5 +5,6 @@ list1_max = list1[0]
 for i in list1:
 	if i > list1_max:
 		list1_max = i
-print("最大值为:"+list1_max)
+print(list1_max)
+
 
